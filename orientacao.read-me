@@ -1,0 +1,21 @@
+Para que o código seja possível de rodar, é necessário preparar o 
+ambiente de execução. Isso inclui a instalação do gerenciador de pacotes 
+pip e a biblioteca paho-mqtt. A biblioteca paho-mqtt é fundamental, pois é 
+ela que permite a utilização do protocolo MQTT no Python.
+
+Certifique-se de que o Python 3 está instalado no seu sistema. Caso 
+ainda não tenha instalado, você pode fazer o download diretamente do 
+site oficial em python.org. Junto ao Python, o pip geralmente já vem 
+configurado, mas, se necessário, verifique sua instalação e configure-o 
+adequadamente.
+
+Com o Python e o pip instalados, o próximo passo é instalar a biblioteca 
+paho-mqtt. Isso é feito de forma simples, utilizando o pip no terminal ou
+no prompt de comando. Para instalar, execute o comando: pip install 
+paho-mqtt. Esse processo irá baixar e configurar automaticamente a 
+biblioteca para uso no seu ambiente Python.
+
+Uma vez que o paho-mqtt está instalado, você estará pronto para rodar os 
+códigos de Publisher e Subscriber, garantindo que eles possam se conectar 
+ao broker MQTT e se comunicar corretamente.
+
